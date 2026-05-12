@@ -4,19 +4,24 @@
 🌐 Live Site:  https://abrvion.github.io/Tinyone-project/ 
 
 ## Overview ✨
-This is an app landing page that is sleek and modern, with full responsiveness and functionality, and it's easy to maintain and use as the perfect app representation 
+
+A sleek and modern app landing page designed for full responsiveness, smooth functionality, and easy maintenance. It provides a clean and professional representation of your application across all devices.
 
 ## Features 🎖️
-- sleek and modern design
-- consistent color combinations
-- full responsiveness for all devices
-- reusable code block
-- clean code
-- easy to maintain with code commenting
-- Psd layered
+
+* Modern, sleek UI design
+* Consistent and well-balanced color scheme
+* Fully responsive across all screen sizes
+* Reusable and modular code structure
+* Clean and organized codebase
+* Well-commented for easy maintenance
+* PSD layered design included
 
 ## Tech Stack 🚀
-- HTML
-- CSS
-- BOOTSTAP
-- MEDIAQUERY
+
+* HTML
+* CSS
+* Bootstrap
+* Media Queries
+
+
