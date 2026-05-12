@@ -13,6 +13,7 @@ This is an app landing page that is sleek and modern, with full responsiveness a
 - reusable code block
 - clean code
 - easy to maintain with code commenting
+- Psd layered
 
 ## Tech Stack 🚀
 - HTML
