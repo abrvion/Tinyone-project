@@ -22,6 +22,6 @@ A sleek and modern app landing page designed for full responsiveness, smooth fun
 * HTML
 * CSS
 * Bootstrap
-* Media Queries
+* Media Queries   
 
 
