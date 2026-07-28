@@ -2,6 +2,7 @@
 >Tinyone is a project about a sleek and modern app landing page
 
 🌐 Live Site:  https://abrvion.github.io/Tinyone-project/ 
+<img src="Screenshot 2026-07-28 160959.png" alt="screanshot">
 
 ## Overview ✨
 
